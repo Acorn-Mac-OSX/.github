@@ -28,7 +28,7 @@ For users looking for a simple yet capable alternative to Photoshop, **Acorn app
 
 ## Screenshots
 
-![Acorn Interface](https://macx.ws/uploads/posts/2017-08/thumbs/1503487758_acorn_02.png)
+![Acorn Interface](https://macx.ws/uploads/posts/2017-08/1503487758_acorn_02.png)
 
 ---
 
